@@ -38,6 +38,7 @@ Your Booking Confirmed. You have selected a {RoomType} room for {DurationOfStay}
 Fallback logic is implemented to handle invalid inputs.
 
 **Testing and Results**
+
 Extensive testing was carried out to ensure the chatbot's accuracy and reliability. The system was tested across various scenarios:
 
 Booking different room types.
